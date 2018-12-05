@@ -1,0 +1,25 @@
+html, body{
+   /* margin: 0;
+    padding: 0;
+    height: 100%;*/
+}
+body {
+   /* background-color: darkred;*/
+}
+.movie-col{
+    padding: 10px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+  .outterWrap{
+    min-height: 100%;
+    position: relative;
+    padding-top: 50px;
+    padding-bottom: 70px;
+    padding-left: 5%;
+    padding-right: 5%;
+    display: flex;
+    flex-direction: column;
+   /* color: white;*/
+  }
